@@ -2,13 +2,13 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Replace 'YOUR_TOKEN' with the actual token from BotFather
-TOKEN = '6413853374:AAGSdFr6_2-XGmt-QD8JVZcf7hSR7GBU_3I'
+TOKEN = '#'
 
 # Replace 'CHANNEL_2_ID' with the ID of your private content channel
-CHANNEL_2_ID = '+sAYa7xKGizgyMmVl'
+CHANNEL_2_ID = '#'
 
 # Replace 'ADMIN_CHAT_ID' with your admin chat ID
-ADMIN_CHAT_ID = 5447083924
+ADMIN_CHAT_ID = 
 
 # Dictionary to map content file IDs to content start links
 content_links = {}
